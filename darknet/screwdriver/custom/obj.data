@@ -1,0 +1,1 @@
+classes= 1\ntrain  = custom/train.txt\nvalid  = custom/test.txt\nnames = custom/obj.names\nbackup = backup/
